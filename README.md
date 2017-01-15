@@ -6,6 +6,7 @@
 <img src='https://github.com/Peter1303/MaterialDialog/blob/master/arts/Screenshot_2017-01-14-08-27-38-856_com.dialog.app.png' height='400'/> 
 <img src='https://github.com/Peter1303/MaterialDialog/blob/master/arts/Screenshot_2017-01-14-08-27-42-467_com.dialog.app.png' height='400'/>
 <img src='https://github.com/Peter1303/MaterialDialog/blob/master/arts/Screenshot_2017-01-14-08-27-45-730_com.dialog.app.png' height='400'/>
+<img src='https://github.com/Peter1303/MaterialDialog/blob/master/arts/MaterialDialog.gif' height='400'/>
 
 #[Demo下载](https://github.com/Peter1303/MaterialDialog/blob/master/app/build/bin/app.apk?raw=true)
 #[MP4演示下载](https://github.com/Peter1303/MaterialDialog/blob/master/arts/SCR_20170114_082826.mp4?raw=true)
