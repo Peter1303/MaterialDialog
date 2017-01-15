@@ -119,7 +119,7 @@ List<String>list = new ArrayList<String>();
 ```
 可设置按钮颜色：
 ```java
-setBackground
+.setBackground;
 ```
 设置是否可在外面取消：
 ```java
