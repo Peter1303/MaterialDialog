@@ -57,7 +57,8 @@ alert.setNeutralButton("第三个", new OnClickListener(){
 							@Override
 							public void onClick(View p1)
 							{
-                     }
+								
+							}
 						});
 ```
 自定义List方法：
