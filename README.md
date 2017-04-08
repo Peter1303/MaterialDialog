@@ -10,7 +10,7 @@
 
 #[Demo下载](https://github.com/Peter1303/MaterialDialog/blob/master/app/build/bin/app.apk?raw=true)
 #[MP4演示下载](https://github.com/Peter1303/MaterialDialog/blob/master/arts/SCR_20170114_082826.mp4?raw=true)
-##### 这个SnackBar有以下特点：
+##### 这个库有以下特点：
 - 极简而且体积小
 - 仿Material Design AlertDialog
 - 可更改按钮颜色
